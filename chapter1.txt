@@ -1,3 +1,5 @@
 IT was the best of times, it was the worest of times.
 
 added an empty line then this line, because of newBranch
+
+new line in branch2
